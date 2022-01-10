@@ -1,0 +1,27 @@
+/* .row *{
+   width: none !important;
+} */
+hr {
+    margin: 0 !important;
+}
+.creditos {
+    margin-bottom: 20px;
+  }
+  
+  .creditos-itens {
+    text-align: center;
+    background-color: white;
+    border-radius: 20px;
+    min-height: 190px;
+    margin: 10px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+  }
+
+.btn-calc {
+    border-radius: 20px;
+    background-color: #d7d3d3;
+    width: 50px;
+    margin: 10px;
+}
